@@ -31,7 +31,7 @@
 ### kubectl get svc
 ### kubectl get ingress
 ### kubectl get namespace
-### kubectl get all -n monitoring
+### kubectl get all -n monitoring-grafana
 ### kubectl get secret
 ### kubectl describe ingress grafana-ingress
 ### kubectl get pods -n default
